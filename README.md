@@ -28,4 +28,16 @@ The system processes the PDF, converts the content into vector embeddings, store
 - Hugging Face Embeddings
 - Uvicorn
 - NLP / RAG Architecture
+- 
+## ▶️ Run Application
 
+### 1. Navigate to Backend Folder
+
+```bash
+cd backend
+uvicorn main:app --reload
+
+### 1. Navigate to Frontend Folder
+
+```bash
+cd frontend
