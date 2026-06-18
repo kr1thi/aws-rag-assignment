@@ -31,7 +31,7 @@ The system processes the PDF, converts the content into vector embeddings, store
 - 
 ## ▶️ Run Application
 
-### 1. Navigate to Backend Folder
+### 1. Navigate to Backend and Frontend Folder
 
 ```bash
 cd backend
