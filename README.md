@@ -89,10 +89,17 @@ Open another terminal:
 ```bash
 cd frontend
 ```
+
+Run Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
 Frontend URL:
 
 ```
-http://localhost:3000
+http://localhost:8501
 ```
 
 ## 📌 API Endpoints
